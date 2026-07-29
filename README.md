@@ -7,9 +7,7 @@ A modern and responsive **Voice to Text Converter** built using **HTML, CSS, and
 # 🌐 Live Demo
 
 **🔗 Website:**  
-https://your-voice-to-text.netlify.app/
-
-> Replace this with your deployed Netlify URL.
+https://manoj1234-bot.github.io/Voice-to-Text-Web-App/
 
 ## 📂 GitHub Repository
 
