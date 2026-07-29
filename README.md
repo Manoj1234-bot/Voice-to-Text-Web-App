@@ -12,8 +12,7 @@ https://manoj1234-bot.github.io/Voice-to-Text-Web-App/
 ## 📂 GitHub Repository
 
 **🔗 Repository:**  
-https://github.com/Manoj1234-bot/Voice-to-Text
--Web-App
+https://github.com/Manoj1234-bot/Voice-to-Text-Web-App
 
 
 # ✨ Features
